@@ -138,6 +138,6 @@ MESSAGE_TAGS = {
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'suyashchilwarwar51@gmail.com'
-EMAIL_HOST_PASSWORD = 'kmprhngojrtmokwb'
+EMAIL_HOST_USER = 'USERNAME'
+EMAIL_HOST_PASSWORD = 'PASSWORD'
 EMAIL_USE_TLS = True
